@@ -19,39 +19,65 @@
 ## Resources
 
 - 课程网站：https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
-- 课程视频：每节课的链接参见课程网站
+- 课程视频：https://www.youtube.com/playlist?list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8
 - 课程作业：15 个 lab，几乎覆盖了主流深度学习的所有领域，参见课程网站
 
 ## Notes
 
-Lecture 1:Introduction of Deep Learning
+### Lecture 1: Introduction of Deep Learning
 
-Lecture 2:What to do if my network fails to train
+介绍了些本门课可以学到的东西
 
-Lecture 3:Image as input
+### Lecture 2: What to do if my network fails to train
 
-Lecture 4:Sequence as input
+为什么参数越多，越容易 overfit
 
-Lecture 5:Sequence to sequence
+训练集不好
 
-Lecture 6:Generation
+<img src="./images/image-20230108182217458.png" alt="image-20230108182217458" style="zoom:50%;" />
+
+<img src="./images/image-20230108183339463.png" alt="image-20230108183339463" style="zoom:50%;" />
+
+<img src="./images/image-20230108183422655.png" alt="image-20230108183422655" style="zoom:50%;" />
+
+<img src="./images/image-20230108215257508.png" alt="image-20230108215257508" style="zoom:50%;" />
+
+### Lecture 3: Image as input
+
+深度学习好在哪
+
+ReLU 进行叠加 + 常数可代表任何方程
+
+<img src="./images/image-20230108223304383.png" alt="image-20230108223304383" style="zoom:50%;" />
+
+<img src="./images/image-20230108223414917.png" alt="image-20230108223414917" style="zoom:50%;" />
+
+<img src="./images/image-20230108230226158.png" alt="image-20230108230226158" style="zoom:50%;" />
+
+<img src="./images/image-20230108232105650.png" alt="image-20230108232105650" style="zoom:50%;" />
+
+Lecture 4: Sequence as input
+
+Lecture 5: Sequence to sequence
+
+Lecture 6: Generation
 
 Recent Advance of Self-supervised learning for NLP
 
-Lecture 7:Self-supervised learning for Speech and Image
+Lecture 7: Self-supervised learning for Speech and Image
 
-Lecture 8:Auto-encoder/ Anomaly Detection
+Lecture 8: Auto-encoder/ Anomaly Detection
 
-Lecture 9:Explainable AI
+Lecture 9: Explainable AI
 
-Lecture 10:Attack
+Lecture 10: Attack
 
-Lecture 11:Adaptation
+Lecture 11: Adaptation
 
-Lecture 12:Reinforcement Learning
+Lecture 12: Reinforcement Learning
 
-Lecture 13:Network Compression
+Lecture 13: Network Compression
 
-Lecture 14:Life-long Learning
+Lecture 14: Life-long Learning
 
-Lecture 15:Meta Learning
+Lecture 15: Meta Learning
