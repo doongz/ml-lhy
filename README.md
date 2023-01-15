@@ -21,6 +21,7 @@
 - 课程网站：https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php
 - 课程视频：https://www.youtube.com/playlist?list=PLJV_el3uVTsPM2mM-OQzJXziCGJa8nJL8
 - 课程作业：15 个 lab，几乎覆盖了主流深度学习的所有领域，参见课程网站
+- 参考书籍：《Dive into Deep Learning》https://d2l.ai/
 
 ## Notes
 
@@ -57,6 +58,10 @@ ReLU 进行叠加 + 常数可代表任何方程
 <img src="./images/image-20230108232105650.png" alt="image-20230108232105650" style="zoom:50%;" />
 
 Lecture 4: Sequence as input
+
+<img src="./images/image-20230115143207868.png" alt="image-20230115143207868" style="zoom: 33%;" />
+
+<img src="./images/image-20230115143556724.png" alt="image-20230115143556724" style="zoom:33%;" />
 
 Lecture 5: Sequence to sequence
 
