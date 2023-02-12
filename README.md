@@ -43,6 +43,34 @@
 
 <img src="./images/image-20230108215257508.png" alt="image-20230108215257508" style="zoom:50%;" />
 
+Optimization Fails
+
+<img src="./images/image-20230210205926945.png" alt="image-20230210205926945" style="zoom:50%;" />
+
+<img src="./images/image-20230210211430195.png" alt="image-20230210211430195" style="zoom:50%;" />
+
+为什么 small batch 的效果要好，因为在另一个损失函数中就不是 critical point
+
+<img src="./images/image-20230210211810177.png" alt="image-20230210211810177" style="zoom:50%;" />
+
+<img src="./images/image-20230210211756412.png" alt="image-20230210211756412" style="zoom:50%;" />
+
+<img src="./images/image-20230210212251337.png" alt="image-20230210212251337" style="zoom:50%;" />
+
+<img src="./images/image-20230210214209299.png" alt="image-20230210214209299" style="zoom:50%;" />
+
+<img src="./images/image-20230210214409150.png" alt="image-20230210214409150" style="zoom:50%;" />
+
+Tips for training: **Adaptive Learning Rate**
+
+<img src="./images/image-20230210221116963.png" alt="image-20230210221116963" style="zoom:50%;" />
+
+客制化的 learning rate
+
+<img src="./images/image-20230211214337185.png" alt="image-20230211214337185" style="zoom:50%;" />
+
+<img src="./images/image-20230211214403013.png" alt="image-20230211214403013" style="zoom:50%;" />
+
 ### Lecture 3: Image as input
 
 cnn
@@ -107,11 +135,61 @@ self-attention vs RNN
 
 ### Lecture 5: Sequence to sequence
 
-<img src="./images/image-20230115143207868.png" alt="image-20230115143207868" style="zoom: 33%;" />
+<img src="./images/image-20230207233649899.png" alt="image-20230207233649899" style="zoom:50%;" />
 
-<img src="./images/image-20230115143556724.png" alt="image-20230115143556724" style="zoom:33%;" />
+encoder
+
+<img src="./images/image-20230207233738684.png" alt="image-20230207233738684" style="zoom:50%;" />
+
+decoder
+
+<img src="./images/image-20230208221948200.png" alt="image-20230208221948200" style="zoom:50%;" />
+
+<img src="./images/image-20230208222141298.png" alt="image-20230208222141298" style="zoom:50%;" />
+
+<img src="./images/image-20230208223416137.png" alt="image-20230208223416137" style="zoom:50%;" />
+
+<img src="./images/image-20230208225443220.png" alt="image-20230208225443220" style="zoom:50%;" />
+
+training
+
+<img src="./images/image-20230208231147154.png" alt="image-20230208231147154" style="zoom:50%;" />
+
+Tips
+
+<img src="./images/image-20230208231422408.png" alt="image-20230208231422408" style="zoom:50%;" />
+
+Scheduled Sampling
+
+<img src="./images/image-20230208234349083.png" alt="image-20230208234349083" style="zoom:50%;" />
+
+各式各樣的 Attention
+
+<img src="./images/image-20230210204520913.png" alt="image-20230210204520913" style="zoom:50%;" />
+
+<img src="./images/image-20230210204627492.png" alt="image-20230210204627492" style="zoom:50%;" />
+
+<img src="./images/image-20230210204753892.png" alt="image-20230210204753892" style="zoom:50%;" />
+
+通过改变矩阵乘的顺序来降低计算量
+
+<img src="./images/image-20230210204834366.png" alt="image-20230210204834366" style="zoom:50%;" />
+
+<img src="./images/image-20230210204924461.png" alt="image-20230210204924461" style="zoom:50%;" />
 
 ### Lecture 6: Generation
+
+<img src="./images/image-20230212171042161.png" alt="image-20230212171042161" style="zoom:50%;" />
+
+<img src="./images/image-20230212171908913.png" alt="image-20230212171908913" style="zoom:50%;" />
+
+<img src="./images/image-20230212173910051.png" alt="image-20230212173910051" style="zoom:50%;" />
+
+风格迁移
+
+<img src="./images/image-20230212213444288.png" alt="image-20230212213444288" style="zoom:50%;" />
+
+<img src="./images/image-20230212214109109.png" alt="image-20230212214109109" style="zoom:50%;" />
 
 ### Recent Advance of Self-supervised learning for NLP
 
