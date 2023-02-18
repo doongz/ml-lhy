@@ -193,6 +193,8 @@ Scheduled Sampling
 
 ### Recent Advance of Self-supervised learning for NLP
 
+
+
 ### Lecture 7: Self-supervised learning for Speech and Image
 
 ### Lecture 8: Auto-encoder/ Anomaly Detection
