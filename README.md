@@ -193,17 +193,89 @@ Scheduled Sampling
 
 ### Recent Advance of Self-supervised learning for NLP
 
+BERT: https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html
 
+<img src="./images/image-20230219213117374.png" alt="image-20230219213117374" style="zoom:50%;" />
+
+<img src="./images/image-20230219213733819.png" alt="image-20230219213733819" style="zoom:50%;" />
+
+<img src="./images/image-20230219214255436.png" alt="image-20230219214255436" style="zoom:50%;" />
+
+<img src="./images/image-20230219214731632.png" alt="image-20230219214731632" style="zoom:50%;" />
+
+...
+
+<img src="./images/image-20230219215149932.png" alt="image-20230219215149932" style="zoom:50%;" />
+
+<img src="./images/image-20230219215547329.png" alt="image-20230219215547329" style="zoom:50%;" />
+
+<img src="./images/image-20230219220128778.png" alt="image-20230219220128778" style="zoom:50%;" />
 
 ### Lecture 7: Self-supervised learning for Speech and Image
 
+1. Generative Approaches
+
+<img src="./images/image-20230221224028165.png" alt="image-20230221224028165" style="zoom:50%;" />
+
+<img src="./images/image-20230221224043308.png" alt="image-20230221224043308" style="zoom:50%;" />
+
+<img src="./images/image-20230221224310876.png" alt="image-20230221224310876" style="zoom:50%;" />
+
+<img src="./images/image-20230221224413124.png" alt="image-20230221224413124" style="zoom:50%;" />
+
+2. Predictive Approach
+
+<img src="./images/image-20230221225039622.png" alt="image-20230221225039622" style="zoom:50%;" />
+
+3. Contrastive Learning
+
+<img src="./images/image-20230221225737652.png" alt="image-20230221225737652" style="zoom:50%;" />
+
+<img src="./images/image-20230221230258071.png" alt="image-20230221230258071" style="zoom:50%;" />
+
 ### Lecture 8: Auto-encoder/ Anomaly Detection
+
+<img src="./images/image-20230222220243772.png" alt="image-20230222220243772" style="zoom:50%;" />
+
+<img src="./images/image-20230222220925680.png" alt="image-20230222220925680" style="zoom:50%;" />
+
+<img src="./images/image-20230222223433760.png" alt="image-20230222223433760" style="zoom:50%;" />
 
 ### Lecture 9: Explainable AI
 
+<img src="./images/image-20230224224032047.png" alt="image-20230224224032047" style="zoom:50%;" />
+
+<img src="./images/image-20230224225532342.png" alt="image-20230224225532342" style="zoom:50%;" />
+
+<img src="./images/image-20230224230356847.png" alt="image-20230224230356847" style="zoom:50%;" />
+
 ### Lecture 10: Attack
 
+白盒攻击：知道模型和模型参数，输入的图片作为参数进行训练，既能让输出为另一个东西，同时也和原图片还很相同
+
+<img src="./images/image-20230227230142745.png" alt="image-20230227230142745" style="zoom:50%;" />
+
+<img src="./images/image-20230227230901029.png" alt="image-20230227230901029" style="zoom:50%;" />
+
+<img src="./images/image-20230227232352463.png" alt="image-20230227232352463" style="zoom:50%;" />
+
+黑盒攻击：不知道模型，用同一个数据集训练一个模型，对自己的模型进行攻击，那么训练好的输入图片，对要攻击的模型同样有效
+
+<img src="./images/image-20230228223103633.png" alt="image-20230228223103633" style="zoom:50%;" />
+
+<img src="./images/image-20230228225418185.png" alt="image-20230228225418185" style="zoom:50%;" />
+
+<img src="./images/image-20230228230428890.png" alt="image-20230228230428890" style="zoom:50%;" />
+
+<img src="./images/image-20230228231122088.png" alt="image-20230228231122088" style="zoom:50%;" />
+
+<img src="./images/image-20230228231305462.png" alt="image-20230228231305462" style="zoom:50%;" />
+
 ### Lecture 11: Adaptation
+
+<img src="./images/image-20230302225233152.png" alt="image-20230302225233152" style="zoom:50%;" />
+
+<img src="./images/image-20230302230041993.png" alt="image-20230302230041993" style="zoom:50%;" />
 
 ### Lecture 12: Reinforcement Learning
 
